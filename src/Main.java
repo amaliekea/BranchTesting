@@ -9,5 +9,9 @@ public class Main {
 
         d.eat("fish");
         c.eat("dogfood");
+
+
+        d.showMood(true);
+        c.showMood(false);
     }
 }
