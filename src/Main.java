@@ -6,5 +6,8 @@ public class Main {
         Cat c = new Cat();
         d.makeSound();
         c.makeSound();
+
+        d.eat("fish");
+        c.eat("dogfood");
     }
 }
